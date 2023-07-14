@@ -8,7 +8,9 @@ Later we utilized the scraped data to understand the following demographics and 
 3. Asian University with good research background
 4. Map view of Latin and Asian countries with number of scholars in them.
 
-You can visit the public dashboard [here](https://public.tableau.com/app/profile/sanjid.hossain/viz/CapstoneProject1diffrenvariations/Dashboard1?publish=yes). 
+You can visit the public dashboard [here](https://public.tableau.com/app/profile/sanjid.hossain/viz/CapstoneProject1diffrenvariations/Dashboard1?publish=yes). <br/>
+![image](https://github.com/SanjidHossain/demogrpahy-of-best-CS-scholars-In-Asia/blob/main/selenium%20scrape/Dashboard%201.png)
+
 
 ## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/sanjid.hossain/viz/CapstoneProject1diffrenvariations/Dashboard1?publish=yes)
 1. USA has moost of the top CS scientists in the world. alsmot of the top 1000 are in united states.
